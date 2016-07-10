@@ -125,19 +125,4 @@
 
     <color name="live_lockscreen_gradient_start">#00000000</color>
     <color name="live_lockscreen_gradient_end">#66000000</color>
-<<<<<<< HEAD:packages/SystemUI/res/values/cm_colors.xml
-=======
-    
-    <!-- Floating action button -->
-    <color name="fab_color">#ff009688</color>
-    <color name="floating_action_button_icon_color">#ffffff</color>
-
-    <!-- Color for the RAM bar text in the recent view -->
-    <color name="recents_membar_text_color">@android:color/white</color>
-
-    <!-- Gesture Anywhere specific colors -->
-    <color name="gesture_overlay_background_fill_color">#80000000</color>
-    <color name="gesture_color">@android:color/holo_blue_light</color>
-
->>>>>>> e857d10... Gesture Anywhere - bring it back [1/2]:packages/SystemUI/res/values/own_colors.xml
 </resources>

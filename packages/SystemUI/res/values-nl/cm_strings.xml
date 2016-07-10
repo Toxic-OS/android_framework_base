@@ -214,16 +214,8 @@
   <string name="accessibility_dock_battery_level">Dock-accu <xliff:g id="number">%d</xliff:g> procent.</string>
   <!-- Play queue -->
   <string name="play_queue_extention">Wachtrij weergeven</string>
-<<<<<<< HEAD:packages/SystemUI/res/values-nl/cm_strings.xml
   <!-- Path data for portrait battery -->
   <!-- Path data for landscape battery -->
   <!-- Path data for circle battery -->
   <!-- Weather string format in keyguard -->
-=======
-  <!-- The text for the button in the notification window-shade that clears
-       all of the currently visible notifications. [CHAR LIMIT=10]-->
-  <string name="clear_recents">Sluit alle apps</string>
-  <!-- GA Gesture -->
-  <string name="gestures_message">Teken hier uw gebaar</string>
->>>>>>> e857d10... Gesture Anywhere - bring it back [1/2]:packages/SystemUI/res/values-nl/own_strings.xml
 </resources>
