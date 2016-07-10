@@ -4693,13 +4693,7 @@ public abstract class AbsListView extends AdapterView<ListAdapter> implements Te
             removeCallbacks(mCheckFlywheel);
 
             reportScrollStateChange(OnScrollListener.SCROLL_STATE_IDLE);
-<<<<<<< HEAD
             clearScrollingCache();
-=======
-            if (clearCache) {
-                clearScrollingCache();
-            }
->>>>>>> 5e9f537... Return: Listanimation Views and Interpolator [1/2]
             mScroller.abortAnimation();
 
             if (mFlingStrictSpan != null) {
