@@ -3553,6 +3553,12 @@ public final class Settings {
                 "wallpaper_intra_close",
                 "task_open_behind",   
         };  
+        
+        /**
+         * Toast animations
+         *
+         * @hide
+         */
         public static final String ANIMATION_CONTROLS_DURATION = "animation_controls_duration";
 
         /**
