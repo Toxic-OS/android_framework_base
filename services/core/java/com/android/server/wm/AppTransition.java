@@ -44,7 +44,7 @@ import android.view.animation.TranslateYAnimation;
 import android.widget.Toast;
 
 import com.android.internal.util.DumpUtils.Dump;
-import com.android.internal.util.AwesomeAnimationHelper;
+import com.android.internal.util.toxic.AwesomeAnimationHelper;
 import com.android.server.AttributeCache;
 import com.android.server.wm.WindowManagerService.H;
 
